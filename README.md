@@ -1,4 +1,4 @@
-BondBuzz
+#BondBuzz
 Team name:InnovateHER
 Team members:Ashwathi P Suresh,Ashika V K
 Project Description:Bond Buzz is a next-generation social networking platform designed to help people build meaningful connections in a fast-paced digital world. Unlike traditional social media apps that focus on endless scrolling and passive engagement, Bond Buzzz emphasizes authentic interaction, shared interests.
